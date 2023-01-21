@@ -6,6 +6,11 @@ This Module works both for Client and Server.
 
 ![Screenshot](https://raw.githubusercontent.com/Stonetr03/Debug-Module/master/screenshot.png)
 
+The Ui is toggleable via the keybinds `RightShift + p`
+
+> **Note**
+> The Keybinds can be changed in the Config.lua file.
+
 # Installation
 
 ## Method 1: rbxlx File (Roblox Studio)
