@@ -4,11 +4,13 @@ Debug Module for Roblox games.
 
 This Module works both for Client and Server.
 
+![Screenshot](https://raw.githubusercontent.com/Stonetr03/Debug-Module/master/screenshot.png)
+
 # Installation
 
 ## Method 1: rbxlx File (Roblox Studio)
 
-- Download the rbxmx model file from the latest release from the [releases page]().
+- Download the rbxmx model file from the latest release from the [releases page](https://github.com/Stonetr03/Debug-Module/releases).
 - Insert the model into Roblox Studio and place into ReplicatedStorage.
 
 ## Method 2: Rojo Sync
