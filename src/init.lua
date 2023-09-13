@@ -8,7 +8,7 @@ local UserInputService = game:GetService("UserInputService");
 local Module = {}
 
 if RunService:IsClient() then
-    local Fusion = require(script:WaitForChild("Packages"):WaitForChild("Fusion"))
+    local Fusion = require(script.Parent:WaitForChild("Fusion"))
     local Config = require(script:WaitForChild("config"))
 
     local New = Fusion.New

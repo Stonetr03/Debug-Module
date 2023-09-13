@@ -13,15 +13,16 @@ The Ui is toggleable via the keybinds `RightShift + p`
 
 # Installation
 
-## Method 1: rbxlx File (Roblox Studio)
+## Method 1: Wally & Rojo
+
+- Add Debug as a wally dependency
+- ex `debug-module = "stonetr03/debug-module@2.0.1"`
+- Use a plugin like [Rojo](https://rojo.space/) to sync into Roblox.
+
+## Method 2: rbxlx File (Roblox Studio)
 
 - Download the rbxmx model file from the latest release from the [releases page](https://github.com/Stonetr03/Debug-Module/releases).
 - Insert the model into Roblox Studio and place into ReplicatedStorage.
-
-## Method 2: Rojo Sync
-
-- Copy the [Debug Folder](https://github.com/Stonetr03/Debug-Module/tree/master/src/debug) into your codebase.
-- Use a plugin like [Rojo](https://rojo.space/) to sync into Roblox.
 
 # Usage
 
