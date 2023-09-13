@@ -1,5 +1,7 @@
 # Project place file
 /DebugModule.rbxlx
+Packages/
+Builds/
 
 # Roblox Studio lock files
 /*.rbxlx.lock

@@ -1,33 +1,6 @@
 {
-  "name": "DebugModule",
-  "tree": {
-    "$className": "DataModel",
-
-    "ReplicatedStorage": {
-      "debug": {
-        "$path": "src/debug",
-
-        "RemoteEvent": {
-          "$className": "RemoteEvent"
-        },
-        "RemoteFunc": {
-          "$className": "RemoteFunction"
-        }
-      }
-    },
-
-    "ServerScriptService": {
-      "Server": {
-        "$path": "src/server"
-      }
-    },
-
-    "StarterPlayer": {
-      "StarterPlayerScripts": {
-        "Client": {
-          "$path": "src/client"
-        }
-      }
+    "name": "debug-module",
+    "tree": {
+        "$path": "src"
     }
-  }
 }

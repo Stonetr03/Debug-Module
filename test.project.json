@@ -1,0 +1,28 @@
+{
+    "name": "debug-module - Test",
+    "tree": {
+        "$className": "DataModel",
+  
+        "ReplicatedStorage": {
+            "debug": {
+                "$path": "src",
+
+                "Packages": {
+                    "$path": "Packages"
+                }
+            }
+        },
+        "ServerScriptService": {
+            "Server": {
+                "$path": "test/server"
+            }
+        },
+        "StarterPlayer": {
+            "StarterPlayerScripts": {
+                "Client": {
+                    "$path": "test/client"
+                }
+            }
+        }
+    }
+}

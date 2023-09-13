@@ -4,7 +4,7 @@ Debug Module for Roblox games.
 
 This Module works both for Client and Server.
 
-![Screenshot](https://raw.githubusercontent.com/Stonetr03/Debug-Module/master/screenshot.png)
+![Screenshot](/Images/screenshot.png)
 
 The Ui is toggleable via the keybinds `RightShift + p`
 
@@ -28,10 +28,13 @@ The Ui is toggleable via the keybinds `RightShift + p`
 Require the Debug Module from a Client or Server script.
 
 > **Warning**
-> Server Debugs are visible to all clients!
+> Server lines are visible to all clients!
+
+> **Note**
+> For Server Lines to be visible, the module needs to be loaded/required on the client.
 
 ```lua
-local Debug = require(game.ReplicatedStorage.debug)
+local Debug = require(path.to.module)
 ```
 
 ## Add a line
