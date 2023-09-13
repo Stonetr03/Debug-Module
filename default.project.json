@@ -1,16 +1,6 @@
 {
-    "name": "DebugModule",
+    "name": "debug-module",
     "tree": {
-        "$className": "DataModel",
-  
-        "ReplicatedStorage": {
-            "debug": {
-                "$path": "src",
-
-                "Packages": {
-                    "$path": "Packages"
-                }
-            }
-        }
+        "$path": "src"
     }
 }

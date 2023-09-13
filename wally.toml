@@ -7,5 +7,8 @@ authors = ["Stonetr03"]
 realm = "shared"
 registry = "https://github.com/UpliftGames/wally-index"
 
+exclude = ["Images","test","foreman.toml","test.project.json"]
+include = ["src","default.project.json","wally.toml","wally.lock","LICENSE"]
+
 [dependencies]
 Fusion = "elttob/fusion@0.2.0"
