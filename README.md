@@ -4,7 +4,7 @@ Debug Module for Roblox games.
 
 This Module works both for Client and Server.
 
-![Screenshot](https://raw.githubusercontent.com/Stonetr03/Debug-Module/master/screenshot.png)
+![Screenshot](/Images/screenshot.png)
 
 The Ui is toggleable via the keybinds `RightShift + p`
 
